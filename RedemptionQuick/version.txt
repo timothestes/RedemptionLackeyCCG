@@ -1,8 +1,8 @@
 <version>
 
-<lastupdateYYMMDD>250614</lastupdateYYMMDD>
+<lastupdateYYMMDD>250615</lastupdateYYMMDD>
 <versionurl>https://timothestes.github.io/RedemptionLackeyCCG/RedemptionQuick/version.txt</versionurl>
 <updateurl>https://timothestes.github.io/RedemptionLackeyCCG/RedemptionQuick/updatelist.txt</updateurl>
-<message>Redemption version 2.0: Added David, the Unifier</message>
+<message>Redemption version 3.0: Added David, the Unifier</message>
 
 </version>
