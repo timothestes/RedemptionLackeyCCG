@@ -4,7 +4,7 @@ plugins/Redemption/cardback.jpg	https://timothestes.github.io/RedemptionLackeyCC
 plugins/Redemption/plugininfo.txt	https://timothestes.github.io/RedemptionLackeyCCG/RedemptionQuick/plugininfo.txt	384712
 plugins/Redemption/formats.txt	https://timothestes.github.io/RedemptionLackeyCCG/RedemptionQuick/formats.txt	97447
 plugins/Redemption/setlist.txt	https://timothestes.github.io/RedemptionLackeyCCG/RedemptionQuick/setlist.txt	39946
-plugins/Redemption/version.txt	https://timothestes.github.io/RedemptionLackeyCCG/RedemptionQuick/version.txt	31841
+plugins/Redemption/version.txt	https://timothestes.github.io/RedemptionLackeyCCG/RedemptionQuick/version.txt	31843
 plugins/Redemption/decks/Starter_I.dek	https://timothestes.github.io/RedemptionLackeyCCG/RedemptionQuick/decks/Starter_I.dek	360392
 plugins/Redemption/decks/Starter_J.dek	https://timothestes.github.io/RedemptionLackeyCCG/RedemptionQuick/decks/Starter_J.dek	370381
 plugins/Redemption/decks/Starter_K.dek	https://timothestes.github.io/RedemptionLackeyCCG/RedemptionQuick/decks/Starter_K.dek	430514
