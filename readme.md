@@ -2,9 +2,12 @@
 
 ## How to host
 
+1) Create an index.html file
+2) Go to project settings > pages > deploy from a branch > master (root)
+3) Get github pages url (looks something like this: https://timothestes.github.io/RedemptionLackeyCCG/RedemptionQuick/setlist.txt)
+
 ## Tim's TODOS
 
-- remove sounds/ folder
 - add versions.txt
 - Look into Card Functions
 - What is ISSTACKEDCARDSFLAT
