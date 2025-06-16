@@ -1,5 +1,9 @@
 ## How to publish a lackey update
 
+1) Add the new files
+2) Copy them to your local lackey directory
+3) Run `/mkupdate plugins/RedemptionQuick/updatelist.txt" in lackey`
+
 ## How to host
 
 1) Create an index.html file
